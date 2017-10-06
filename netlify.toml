@@ -1,0 +1,4 @@
+[[redirects]]
+  origin = "/foo"
+  destination = "/bar"
+  headers = {Host = "kathleen-booth-website.com"}
