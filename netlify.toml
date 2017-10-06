@@ -2,3 +2,8 @@
   origin = "/foo"
   destination = "/bar"
   headers = {Host = "kathleen-booth-website.com"}
+
+[[redirects]]
+  origin = "/bar"
+  destination = "/baz"
+  headers = {Host = "kathleen-booth-website.com"}
