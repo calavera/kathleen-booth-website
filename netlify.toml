@@ -1,9 +1,4 @@
 [[redirects]]
-  origin = "/foo"
-  destination = "/bar"
-  headers = {Host = "kathleen-booth-website.com"}
-
-[[redirects]]
-  origin = "/bar"
-  destination = "/baz"
-  headers = {Host = "kathleen-booth-website.com"}
+  origin = "/parse"
+  destination = "https://requestb.in/1nagh6m1"
+  headers = {Host = "kathleen-booth-website.com", X-From = "netlify"}
