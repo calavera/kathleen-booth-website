@@ -1,4 +1,5 @@
 [[redirects]]
   origin = "/parse"
   destination = "https://requestb.in/1nagh6m1"
+  status = 200
   headers = {Host = "kathleen-booth-website.com", X-From = "netlify"}
